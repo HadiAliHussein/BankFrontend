@@ -1,0 +1,16 @@
+{
+  "title": "Why Choose Bank?",
+  "text": "Whether you’re an individual, a family, or a business, we provide personalized banking solutions designed just for you. From savings accounts to investment advice.",
+  "section": [
+    {
+      "title": "Checking & Savings Accounts",
+      "content": "Choose from a variety of accounts with competitive interest rates and no hidden fees.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Investment Services",
+      "content": "Let our financial advisors help you grow your wealth with customized investment strategies.",
+      "icon": "notes.svg"
+    }
+  ]
+}
